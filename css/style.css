@@ -1,0 +1,216 @@
+html {width: 100%; height: 100%}
+body {
+	background-color: #fff2e7;
+	width: 100%;
+	height: 100%;
+	overflow: hidden;
+}
+header {
+	height: 20px;
+	background: linear-gradient(to right, #a6a6a6, #ffffff);
+	padding: 20px;
+	margin-top: -8px;
+	margin-left: -8px;
+	width: 100%;
+	display: flex;
+}
+#logo {
+	height: 100px;
+	width: 100px;
+	margin-left: -10px;
+	margin-top: -15px;
+}
+h1 {
+	font-size: 90px;
+	font-family: RoxboroughCF Bold;
+	margin-top: -20px;
+	color: #1e2c46;
+}
+
+h2 {
+	font-size: 50px;
+	font-family: RoxboroughCF Bold;
+	margin-top: 13px;
+	color: #1e2c46;
+}
+h3 {
+	font-size: 20px;
+	font-family: RoxboroughCF Bold;
+	margin-top: 10px;
+	margin-left: 95px;
+	color: #1e2c46;
+}
+.home {
+	font-size: 20px;
+	font-family: Arial;
+	margin-top: 70px;
+	margin-left: 200px;
+	color: #1e2c46;
+	text-decoration: none;
+	text-align: center;
+}
+.shop {
+	font-size: 20px;
+	font-family: Arial;
+	margin-top: 70px;
+	margin-left: 80px;
+	color: #1e2c46;
+	text-decoration: none;
+	text-align: center;
+}
+.size{
+	font-size: 20px;
+	font-family: Arial;
+	margin-top: 70px;
+	margin-left: 80px;
+	color: #1e2c46;
+	text-decoration: none;
+	text-align: center;
+}
+.log {
+	font-size: 20px;
+	font-family: Arial;
+	margin-top: 70px;
+	margin-left: 80px;
+	color: #1e2c46;
+	text-decoration: none;
+	text-align: center;
+}
+
+p {
+	font-size: 40px;
+	font-family: HK Grotesk Light;
+	text-align: center;
+	color: #1e2c46;
+	margin-top: 10px;
+	margin-bottom: 15px;
+}
+.shopNow {
+	color: white;
+	background-color: #31241e;
+	font-size: 13px;
+	border-radius: 200px;
+	text-decoration: none;
+	padding: 10px 10px 10px 10px;
+}
+.imgContainer {
+	display: flex;
+	justify-content: center;
+	max-width: 100%;
+}
+#jena {
+	height: 400px;
+	width: 240px;
+/*	margin-left: 35px;*/
+	margin-top: 20px;
+}
+#friz {
+	height: 400px;
+	width: 240px;
+	margin-left: 30px;
+	margin-top: 20px;
+}
+#shane {
+	height: 400px;
+	width: 240px;
+	margin-left: 30px;
+	margin-top: 20px;
+}
+#micah {
+	height: 400px;
+	width: 240px;
+	margin-left: 30px;
+	margin-top: 20px;
+}
+#crae {
+	height: 400px;
+	width: 240px;
+	margin-left: 30px;
+	margin-top: 20px;
+}
+#search {
+	height: 50px;
+	width: 50px;
+	position: absolute;
+	top: 55px;
+	right: 180px;
+}
+#profile {
+	height: 50px;
+	width: 50px;
+	position: absolute;
+	top: 55px;
+	right: 105px;
+}
+#bag {
+	height: 50px;
+	width: 50px;
+	position: absolute;
+	top: 55px;
+	right: 30px;
+}
+.iframe {
+	margin-left: 15px;
+	margin-top: -130px;
+	position: absolute;
+}
+footer {
+  	padding-left: 20px;
+  	background: linear-gradient(to right, #a6a6a6, #ffffff);
+  	color: #1e2c46;
+  	font-family: Arial;
+  	position: fixed;
+  	left: 0;
+  	bottom: 0;
+  	width: 100%;
+}
+.column {
+  	float: left;
+ 	text-align: justify;
+ 	width: 10%;
+  	padding-left: 5px;
+}
+.column2 {
+	float: left;
+  	text-align: justify;
+  	width: 30%;
+  	padding-left: 400px;
+}
+#num {
+	margin-left: -150px;
+}
+.column3 {
+	float: right;
+  	text-align: justify;
+  	width: 20%;
+  	padding-right: -20px;
+}
+.row:after {
+  	content: "";
+  	display: table;
+  	clear: both;
+}
+#fb {
+	width: 30px;
+	height: 30px;
+	left: 20px;
+	position: fixed;
+}
+#insta {
+	width: 30px;
+	height: 30px;
+	left: 55px;
+	position: fixed;
+}
+#twit {
+	width: 30px;
+	height: 30px;
+	left: 90px;
+	position: fixed;
+}
+#yt {
+	width: 30px;
+	height: 30px;
+	left: 125px;
+	position: fixed;
+}
